@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.thecollagen.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.thecollagen.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.thecollagen.co/collections/accessories.atom"/>
+  <title>The Collagen Co.</title>
+  <updated>2025-02-06T17:02:31+11:00</updated>
+  <author>
+    <name>The Collagen Co.</name>
+  </author>
+  <entry>
+    <id>https://www.thecollagen.co/products/15035927036275</id>
+    <published>2025-02-06T17:02:31+11:00</published>
+    <updated>2025-02-06T17:02:31+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.thecollagen.co/products/collagen-mixer"/>
+    <title>Collagen Mixer</title>
+    <s:type></s:type>
+    <s:vendor>The Collagen Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0423/1492/4190/files/collagen-mixer-704741.png?v=1738866821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Collagen Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p>Upgrade your collagen routine with our portable and convenient Collagen Mixer, designed to effortlessly blend your favourite collagen drinks in seconds. This handheld mixer delivers the perfect consistency every time, whether you're at home or on the move!</p>
+<h2>How to Use</h2>
+<p>With a simple one-touch button and low-noise design, simply submerge the tip into your drink, press to blend, and release to stop—effortless mixing made easy!<br><br>Note: This collagen mixer is battery-operated and requires 2 AA batteries (not included). Ensure the batteries are installed correctly before use.<br></p>
+<h2>Care Instructions</h2>
+<h4><strong>After Each Use:</strong></h4>
+<ul>
+<li>
+<strong>Immediate Rinse:</strong> After using the mixer, place the whisk end in a cup of warm, soapy water and turn it on for a few seconds. This helps remove any residue.</li>
+<li>
+<strong>Rinse with Clean Water:</strong> Run the whisk under clean water to remove any remaining soap.</li>
+<li>
+<strong>Dry Thoroughly:</strong> Use a clean towel to dry the whisk or allow it to air-dry completely before storing.<br>
+</li>
+</ul>
+<h4><strong>Care Tips</strong></h4>
+<ul>
+<li>
+<strong>Hand wash only:</strong> This mixer is not dishwasher safe and may break if placed in a dishwasher.</li>
+<li>
+<strong>Do Not Submerge the Handle:</strong> The motorised body is not waterproof. Only clean the whisk attachment with water.</li>
+<li>
+<strong>Avoid Harsh Chemicals:</strong> Do not use bleach or abrasive cleaners, as they may damage the mixer.</li>
+<li>
+<strong>Store Properly:</strong> Keep the mixer in a dry place to avoid moisture damage.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORY</s:tag>
+    <s:tag>how-to-mixer</s:tag>
+    <s:tag>label:NEW</s:tag>
+    <s:tag>tiered</s:tag>
+    <s:variant>
+      <id>https://www.thecollagen.co/products/15035927036275</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>COLLMIXER</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thecollagen.co/products/7495120912542</id>
+    <published>2025-02-04T09:38:57+11:00</published>
+    <updated>2025-02-04T09:38:57+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.thecollagen.co/products/collagen-protein-shaker"/>
+    <title>Collagen Protein Shaker - 600ml</title>
+    <s:type></s:type>
+    <s:vendor>The Collagen Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0423/1492/4190/files/collagen-protein-shaker-600ml-503359.png?v=1738700989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Collagen Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p>The ultimate companion for your fitness and wellness journey! Designed with an innovative curved bottom, this shaker eliminates clumps and lumps, delivering a smooth, silky shake every time.</p>
+<p>Sleek and stylish, this BPA-free shaker combines functionality with elegance, making it a must-have for your daily routine. Elevate your fitness experience with the Collagen Protein Shaker—where convenience meets sophistication.</p>
+<h2>How to Use</h2>
+<p>To achieve a perfectly blended shake, simply add your desired liquid and powder to the Collagen Protein Shaker, secure the lid, and shake for a smooth and clump-free result. Hand Wash Only.</p>
+<h2>Care Instructions</h2>
+<p>Do not clean in dishwasher<br>Do not place in microwave or freezer<br>Do not place under high temperatures<br>Mix powders and liquids only<br>Firmly close lid before shaking<br>Avoid mixing carbonated beverages</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORY</s:tag>
+    <s:tag>how-to-shaker</s:tag>
+    <s:tag>icons-shaker</s:tag>
+    <s:tag>tiered</s:tag>
+    <s:variant>
+      <id>https://www.thecollagen.co/products/7495120912542</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>PSHAKER</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thecollagen.co/products/7762302304414</id>
+    <published>2024-05-18T07:27:36+10:00</published>
+    <updated>2024-05-18T07:27:36+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.thecollagen.co/products/stainless-steel-collagen-protein-shaker-700ml"/>
+    <title>Stainless Steel Collagen Protein Shaker - 700ml</title>
+    <s:type></s:type>
+    <s:vendor>The Collagen Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0423/1492/4190/files/stainless-steel-collagen-protein-shaker-700ml-358766.jpg?v=1715996043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Collagen Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p>Crafted from durable stainless steel, this shaker includes a mixing ball, ensuring your collagen protein shakes, smoothies, and supplements dissolve seamlessly without any clumps. The visible scale on the window lets you adjust water levels easily, while the wide mouth and leak-proof, twist-on lid make ingredient additions mess-free. With a sleek design, comfortable rubber strap, and BPA-free materials, this shaker is perfect for your regular health routines.<br></p>
+<h2>How to Use</h2>
+<p>To achieve a perfectly blended shake, simply add your desired liquid and powder to the Collagen Protein Shaker, secure the lid, and shake for a smooth and clump-free result. Hand Wash Only.</p>
+<h2>Care Instructions</h2>
+<p>Do not clean in dishwasher<br>Do not place in microwave or freezer<br>Do not place under high temperatures<br>Mix powders and liquids only<br>Firmly close lid before shaking<br>Avoid mixing carbonated beverages<br><span>Not recommend to use for hot</span><b data-stringify-type="bold"><span> </span></b><span>drinks</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORY</s:tag>
+    <s:tag>steel-shaker-icons</s:tag>
+    <s:tag>tiered</s:tag>
+    <s:variant>
+      <id>https://www.thecollagen.co/products/7762302304414</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">39.00</s:price>
+      <s:sku>MShaker</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thecollagen.co/products/7512915607710</id>
+    <published>2023-08-30T04:30:00+10:00</published>
+    <updated>2023-08-30T04:30:00+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.thecollagen.co/products/mulberry-silk-sleep-mask"/>
+    <title>Mulberry Silk Sleep Mask</title>
+    <s:type></s:type>
+    <s:vendor>The Collagen Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0423/1492/4190/products/mulberry-silk-sleep-mask-317702.png?v=1693283921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Collagen Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p>Drift away on a cloud of pure bliss with our Mulberry Silk Sleep Mask. With every gentle touch against your skin, feel the cares of the day dissolve, replaced by a sense of calm as the luxurious silk delicately shields your eyes, inviting you to embrace a night of deep, restorative slumber.</p>
+<ul>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;" data-mce-style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Lightweight design for maximum comfort.</span></li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;" data-mce-style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Ultra-soft materials for a gentle and luxurious feel.</span></li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;" data-mce-style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Enhanced sleep quality by blocking out light effectively.</span></li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;" data-mce-style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Provides a deep, undisturbed sleep experience.</span></li>
+</ul>
+<h2>Mulberry Silk Benefits</h2>
+<p><strong>Anti-aging Properties<br></strong>The 100% Mulberry Silk sleep mask's anti-ageing properties gently caress your skin, promoting a smoother, more youthful complexion during your restful slumber.</p>
+<p><strong>Naturally Hydrating<br></strong>Drift into a naturally hydrating sleep experience with this Mulberry Silk mask, as it helps retain skin moisture, leaving you refreshed and glowing upon waking.</p>
+<p><strong>Hypoallergenic<br></strong>This hypoallergenic Mulberry Silk sleep mask ensures a soothing and irritation-free sleep, perfect for sensitive skin and allergy sufferers.</p>
+<p><strong>Antimicrobial<br></strong>Embrace a clean and germ-free sleep environment with the antimicrobial properties of the Mulberry Silk sleep mask, safeguarding you from unwanted.</p>
+<h2>Care Instructions<br>
+</h2>
+<p><span>Cold hand wash with gentle liquid detergent. Air dry after washing. Do not tumble dry, iron or wash with chlorine bleach.</span></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORY</s:tag>
+    <s:tag>icons-mask</s:tag>
+    <s:tag>mask-benefits</s:tag>
+    <s:tag>tiered</s:tag>
+    <s:variant>
+      <id>https://www.thecollagen.co/products/7512915607710</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">45.00</s:price>
+      <s:sku>SLEEPMASK</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thecollagen.co/products/5528327749790</id>
+    <published>2020-08-03T18:57:32+10:00</published>
+    <updated>2020-08-03T18:57:32+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.thecollagen.co/products/fruit-infuser-bottle-australia"/>
+    <title>Infuser - 500ml</title>
+    <s:type></s:type>
+    <s:vendor>thecollagen.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0423/1492/4190/products/infuser-463747.jpg?v=1738618262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thecollagen.co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">How do you take your collagen? With sliced fresh fruits? Cold brew tea? Or plain old water? Whatever your preferences, our Infuser makes it </span><i><span style="font-weight: 400;" data-mce-style="font-weight: 400;">ridiculously easy</span></i><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> to get your daily anti-ageing goodness in. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Its sturdy borosilicate glass body is topped with a stainless-steel strainer and a rose-gold, leak-proof (go ahead, throw it in your bag!) lid featuring an on-the-go-friendly in-built handle.</span></p>
+<h2>How to Use</h2>
+<p>The infuser allows you to customise your collagen to suit your mood. Use the fruit infuser to pair your peptides with fruit and herbs for a refreshing (and totally good for you) cocktail. </p>
+<p>Remove the infuser entirely to mix your premium collagen peptides with water and carry as a reusable water bottle, keeping you hydrated and maximising the benefits of collagen throughout the day.</p>
+<h2>Care Instructions</h2>
+<p><meta charset="utf-8"><span>Do not clean in dishwasher</span><br><span>Do not place in microwave or freezer</span><br><span>Do not place under high temperatures</span><br><span>Do not wash with hot water</span><br><span>Not recommend to use for hot</span><b data-stringify-type="bold"><span> </span></b><span>drinks</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORY</s:tag>
+    <s:tag>how-to-infuser</s:tag>
+    <s:tag>icons-infuser</s:tag>
+    <s:tag>Infuser</s:tag>
+    <s:tag>retail only</s:tag>
+    <s:tag>tiered</s:tag>
+    <s:variant>
+      <id>https://www.thecollagen.co/products/5528327749790</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">39.00</s:price>
+      <s:sku>INFUSER</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

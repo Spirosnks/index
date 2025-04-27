@@ -1,0 +1,2 @@
+const originalTitle=document.title;let intervalID=null;function handleVisibilityChange(){document.hidden?(clearInterval(intervalID),intervalID=setInterval(()=>{document.title===originalTitle?document.title=window.pageTabTitleMessage:document.title=originalTitle},2e3)):(clearInterval(intervalID),document.title=originalTitle)}document.addEventListener("visibilitychange",handleVisibilityChange);
+//# sourceMappingURL=/cdn/shop/t/135/assets/page-tab-title-message.js.map?v=169180220872997380651707425284
